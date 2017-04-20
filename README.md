@@ -22,6 +22,9 @@
 
 [LeanCloud](https://leancloud.cn/) plugin for [Egg.js](https://eggjs.org)
 
+> Maintainer Required.  
+> If you are interested in picking up maintenance, file an issue at [eggjs/egg](https://github.com/eggjs/egg).
+
 ## Install
 
 ```bash
